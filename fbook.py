@@ -2,8 +2,8 @@ import os
 import time
 from DrissionPage import ChromiumPage, ChromiumOptions
 
-BOOK_ID = 'nyp.33433082168125'
-BASE_DIR = r'E:\2025\downloads'  # 下载目录（不再使用子目录）
+BOOK_ID = 'nyp.33433082168125' #书籍id，自行更换
+BASE_DIR = r'E:\2025\downloads'  # 下载目录,自行更换
 PROXY_ADDR = '127.0.0.1:7890'     # 可自定义代理地址
 
 

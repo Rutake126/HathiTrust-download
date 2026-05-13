@@ -7,6 +7,13 @@
 - 本工具仅供学术研究与个人学习使用，请遵守 HathiTrust 的使用条款。
 - 下载频率过高可能触发服务器限流，建议合理设置下载间隔。
 
+## 🚀 软件下载
+
+如果您不想配置 Python 环境，可以直接下载编译好的可执行文件：
+
+- **[HathiTrust-Downloader.exe (Windows)](https://github.com/Rutake126/HathiTrust-download/releases/download/v1.0.0/HathiTrust-Downloader.exe)**
+  - *注：下载后直接运行即可，无需安装 Python。*
+
 ## 📝 更新日志
 
 ### 2026.05.13
